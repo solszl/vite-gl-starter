@@ -12,7 +12,7 @@
     "@originjs/vite-plugin-federation": "^1.1.9",
     "gl-matrix": "^3.4.3",
     "twgl.js": "^5.0.3",
-    "vite": "^3.1.4",
+    "vite": "^3.1.8",
     "vite-plugin-glsl": "^0.4.0"
   },
   "browserify": {
