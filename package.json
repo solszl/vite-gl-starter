@@ -9,11 +9,11 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "@originjs/vite-plugin-federation": "^1.1.10",
+    "@originjs/vite-plugin-federation": "^1.2.2",
     "gl-matrix": "^3.4.3",
-    "twgl.js": "^5.2.0",
-    "vite": "^3.2.1",
-    "vite-plugin-glsl": "^0.4.0"
+    "twgl.js": "^5.3.1",
+    "vite": "^4.3.1",
+    "vite-plugin-glsl": "^1.1.2"
   },
   "browserify": {
     "transform": [
